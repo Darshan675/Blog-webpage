@@ -1,2 +1,2 @@
-# blog
-I created a blog web page using simple HTML,CSS and js .
+# Blog Website by Darshan R
+This is a Blog Webpage using HTML,CSS, and JavaScript.
